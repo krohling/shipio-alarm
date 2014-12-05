@@ -1,0 +1,6 @@
+Raspberry Pi ($39.99): https://www.sparkfun.com/products/12994
+12 V Power Source ($5.95): https://www.sparkfun.com/products/9442
+N-Channel Mosfet ($1.75): https://www.adafruit.com/products/355
+DC Barrel Power Adapter ($1.25): https://www.sparkfun.com/products/119
+Header - 2x3, Male, 0.1" ($0.50): https://www.sparkfun.com/products/12807
+Resistor Kit ($7.95): https://www.sparkfun.com/products/10969
